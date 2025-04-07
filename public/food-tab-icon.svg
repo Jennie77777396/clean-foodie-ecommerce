@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Plant stem and leaves -->
+  <path d="M32 52 L32 32" stroke="#4CAF50" stroke-width="2" stroke-linecap="round"/>
+  <path d="M32 40 C24 37, 20 30, 24 26 C28 22, 32 28, 32 32" fill="#8BC34A"/>
+  <path d="M32 36 C40 33, 44 26, 40 22 C36 18, 32 24, 32 28" fill="#8BC34A"/>
+  
+  <!-- Food bowl -->
+  <path d="M16 52 C16 42, 48 42, 48 52" fill="none" stroke="#78909C" stroke-width="2"/>
+  <path d="M18 52 C18 45, 46 45, 46 52" fill="#B3E5FC"/>
+  
+  <!-- Food items - colorful vegetables -->
+  <circle cx="26" cy="48" r="3" fill="#FF7043"/>
+  <circle cx="32" cy="46" r="3" fill="#FFEB3B"/>
+  <circle cx="38" cy="48" r="3" fill="#F44336"/>
+  <circle cx="29" cy="49" r="2.5" fill="#4CAF50"/>
+  <circle cx="35" cy="50" r="2" fill="#9C27B0"/>
+  
+  <!-- Cute face -->
+  <circle cx="26" cy="48" r="1" fill="#555" opacity="0.7"/>
+  <circle cx="38" cy="48" r="1" fill="#555" opacity="0.7"/>
+  <path d="M30 51 C32 52.5, 34 52.5, 36 51" fill="none" stroke="#555" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+</svg>
